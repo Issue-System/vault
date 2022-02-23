@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "4283d42ddd63399b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9a39db068b96d96",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/meetup-no-15-slide.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d7c56e7946552601",
+        "type": "leaf",
+        "state": {
+          "type": "reveal-preview-view",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9debfe7a6a6985f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccf40980559187fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cc17c4dd21d0086",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "12e6a24a7306a247",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c9ebf3f0c095743",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a59ff20ea5ea356c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a12d5ae6273593b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42ef23c96db0552e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/meetup-no-15-slide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e9a39db068b96d96",
+  "lastOpenFiles": [
+    "notes/meetup-no-15-slide.md",
+    "notes/meetup-no-15.md",
+    "templates/basic.md",
+    "README.md"
+  ]
+}
